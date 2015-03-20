@@ -3668,7 +3668,28 @@
         "Responsive",
         "RESTful"
       ]
+    },
+    {
+      "name": "Youboox",
+      "thumb": "youboox/thumb.png", 
+      "desc": "Freedom to read thousands of books everywhere and anytime",
+      "url": "http://lire.youboox.fr",
+      "info": "http://www.youboox.fr",
+      "submitter": "bcharp", 
+      "submissionDate": "2015-03-20",
+      "tags": [
+        "Production",
+        "Large website",
+        "Large AngularJS app",
+        "jQuery",
+        "Books",
+        "ePub",
+        "Streaming",
+        "Innovation",
+        "Reading",
+        "Mobile",
+        "RESTful"
+      ]
     }
-
   ]
 }
